@@ -19,7 +19,7 @@ Each section contains subfolders for each day/problem, with solutions written in
 ### 🎯 75 Days Challenge
 | Day | Problem | Solution (C++) | Solution (Java) | Solution (Python) |
 | --- | ------- | --------------- | --------------- | ----------------- |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](75-Days-Challenge/Day-01/C++/solution.cpp) | [Java](75-Days-Challenge/Day-01/Java/Solution.java) | [Python](75-Days-Challenge/Day-01/Python/solution.py) |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](75-Days-Challenge/Day-01/solution.cpp) | [Java](75-Days-Challenge/Day-01/Solution.java) | [Python](75-Days-Challenge/Day-01/solution.py) |
 ...
 
 ## 🛠️ Languages & Tools
